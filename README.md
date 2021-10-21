@@ -14,3 +14,5 @@ Ini adalah tampilannya
 4. Kalian bukan python yang terus pilih python yang idle, setelah kalian masuk kalian pencet new file terus kalian coding seperti contoh berikut:
 ![Gambar 5](screenshoot/s6.JPG)
 ![Gambar 6](screenshoot/s5.JPG)
+5. Sekian tutorial sederhana ini jika ada banyak kekurangan saya mohon maaf semoga tutorial ini dapat membatu assalamua'laikum
+![Gambar 7](screenshoot/s7.JPG)
