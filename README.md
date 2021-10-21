@@ -9,3 +9,5 @@ Ini adalah tampilannya
 ![Gambar 2](screenshoot/Capture2.JPG)
 2. kalian instal pythom itu di laptop atau pc kalian caranya kalian masuk keberkas cari bacaan python klik dua kali terus intal
 ![Gambar 3](screenshoot/s3.JPG)
+3. Kalian cek isntalannya python kalian di comman propt
+![Gambar 4](screenshoot/s4.JPG)
