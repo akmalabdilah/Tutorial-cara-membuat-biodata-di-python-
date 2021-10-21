@@ -11,3 +11,6 @@ Ini adalah tampilannya
 ![Gambar 3](screenshoot/s3.JPG)
 3. Kalian cek isntalannya python kalian di comman propt
 ![Gambar 4](screenshoot/s4.JPG)
+4. Kalian bukan python yang terus pilih python yang idle, setelah kalian masuk kalian pencet new file terus kalian coding seperti contoh berikut:
+![Gambar 5](screenshoot/s6.JPG)
+![Gambar 6](screenshoot/s5.JPG)
